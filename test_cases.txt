@@ -1,0 +1,38 @@
+
+Student Grade Calculator - Test Cases
+
+Test Case 1:
+Student Name: Nitish
+Marks: 95
+Expected Grade: A
+Result: Passed
+
+Test Case 2:
+Student Name: Rahul
+Marks: 85
+Expected Grade: B
+Result: Passed
+
+Test Case 3:
+Student Name: Aman
+Marks: 75
+Expected Grade: C
+Result: Passed
+
+Test Case 4:
+Student Name: Ravi
+Marks: 65
+Expected Grade: D
+Result: Passed
+
+Test Case 5:
+Student Name: Karan
+Marks: 45
+Expected Grade: F
+Result: Passed
+
+Test Case 6:
+Student Name: Mohit
+Marks: 105
+Expected Result: Invalid marks
+Result: Passed
